@@ -1,0 +1,101 @@
+﻿ID_venta,Fecha,Producto,Cantidad_vendida,Precio,Ubicacion
+1,1/1/2024,Producto_A,49.58,95.92,San Juan
+2,1/2/2024,Producto_B,72.07,113.7,BayamÃ³n
+3,1/3/2024,Producto_C,61.25,89.75,Ponce
+4,1/4/2024,Producto_D,44.17,121.45,MayagÃ¼ez
+5,1/5/2024,Producto_A,52.84,125.5,San Juan
+6,1/6/2024,Producto_B,51.32,78.28,BayamÃ³n
+7,1/7/2024,Producto_C,57.42,109.73,Ponce
+8,1/8/2024,Producto_D,47.02,169.22,MayagÃ¼ez
+9,1/9/2024,Producto_A,58.05,75.52,San Juan
+10,1/10/2024,Producto_B,48.32,57.72,BayamÃ³n
+11,1/11/2024,Producto_C,86.8,86.63,Ponce
+12,1/12/2024,Producto_D,83.66,133.77,MayagÃ¼ez
+13,1/13/2024,Producto_A,65.72,95.59,San Juan
+14,1/14/2024,Producto_B,62.85,86.6,BayamÃ³n
+15,1/15/2024,Producto_C,66.95,119.28,Ponce
+16,1/16/2024,Producto_D,48.22,108.79,MayagÃ¼ez
+17,1/17/2024,Producto_A,62.3,111.11,San Juan
+18,1/18/2024,Producto_B,49.33,98.66,BayamÃ³n
+19,1/19/2024,Producto_C,57.09,90.53,Ponce
+20,1/20/2024,Producto_D,29.58,95.42,MayagÃ¼ez
+21,1/21/2024,Producto_A,70.78,111.74,San Juan
+22,1/22/2024,Producto_B,52.37,94.77,BayamÃ³n
+23,1/23/2024,Producto_C,33.42,94.06,Ponce
+24,1/24/2024,Producto_D,41.76,163.94,MayagÃ¼ez
+25,1/25/2024,Producto_A,27.66,97.26,San Juan
+26,1/26/2024,Producto_B,57.76,79.94,BayamÃ³n
+27,1/27/2024,Producto_C,43.88,,Ponce
+28,1/28/2024,Producto_D,94.33,93.92,MayagÃ¼ez
+29,1/29/2024,Producto_A,35.96,62.44,San Juan
+30,1/30/2024,Producto_B,50.74,93.38,BayamÃ³n
+31,1/31/2024,Producto_C,84.93,82.1,Ponce
+32,2/1/2024,Producto_D,58.93,134.24,MayagÃ¼ez
+33,2/2/2024,Producto_A,64.78,147.03,San Juan
+34,2/3/2024,Producto_B,47.75,76.45,BayamÃ³n
+35,2/4/2024,Producto_C,19.17,,Ponce
+36,2/5/2024,Producto_D,34.44,100.54,MayagÃ¼ez
+37,2/6/2024,Producto_A,49.39,67.05,San Juan
+38,2/7/2024,Producto_B,17.25,109.12,BayamÃ³n
+39,2/8/2024,Producto_C,51.4,140.64,Ponce
+40,2/9/2024,Producto_D,52.63,109.48,MayagÃ¼ez
+41,2/10/2024,Producto_A,34.17,,San Juan
+42,2/11/2024,Producto_B,31.86,150.49,BayamÃ³n
+43,2/12/2024,Producto_C,33.42,,Ponce
+44,2/13/2024,Producto_D,59.87,86.9,MayagÃ¼ez
+45,2/14/2024,Producto_A,64.03,131.46,San Juan
+46,2/15/2024,Producto_B,67.6,168.05,BayamÃ³n
+47,2/16/2024,Producto_C,46.54,97.27,Ponce
+48,2/17/2024,Producto_D,47.17,69.59,MayagÃ¼ez
+49,2/18/2024,Producto_A,60,80.45,San Juan
+50,2/19/2024,Producto_B,69.19,96.01,BayamÃ³n
+51,2/20/2024,Producto_C,27.24,126.53,Ponce
+52,2/21/2024,Producto_D,29.7,107.42,MayagÃ¼ez
+53,2/22/2024,Producto_A,49.96,74.26,San Juan
+54,2/23/2024,Producto_B,47.52,114.72,BayamÃ³n
+55,2/24/2024,Producto_C,58.74,,Ponce
+56,2/25/2024,Producto_D,45.68,93.01,MayagÃ¼ez
+57,2/26/2024,Producto_A,24.38,66.83,San Juan
+58,2/27/2024,Producto_B,38.1,,BayamÃ³n
+59,2/28/2024,Producto_C,52.64,63.62,Ponce
+60,2/29/2024,Producto_D,76.68,70.38,MayagÃ¼ez
+61,3/1/2024,Producto_A,65.55,31.05,San Juan
+62,3/2/2024,Producto_B,50.5,117.54,BayamÃ³n
+63,3/3/2024,Producto_C,34.03,74.36,Ponce
+64,3/4/2024,Producto_D,12.33,149.66,MayagÃ¼ez
+65,3/5/2024,Producto_A,48.66,100.73,San Juan
+66,3/6/2024,Producto_B,36.94,82.43,BayamÃ³n
+67,3/7/2024,Producto_C,38,52.92,Ponce
+68,3/8/2024,Producto_D,42.82,152.58,MayagÃ¼ez
+69,3/9/2024,Producto_A,47.72,90.55,San Juan
+70,3/10/2024,Producto_B,31.47,85.56,BayamÃ³n
+71,3/11/2024,Producto_C,37,29.44,Ponce
+72,3/12/2024,Producto_D,55.98,91.28,MayagÃ¼ez
+73,3/13/2024,Producto_A,71.88,94.72,San Juan
+74,3/14/2024,Producto_B,34.73,,BayamÃ³n
+75,3/15/2024,Producto_C,68.18,159.37,Ponce
+76,3/16/2024,Producto_D,53.2,129.26,MayagÃ¼ez
+77,3/17/2024,Producto_A,59.86,57.27,San Juan
+78,3/18/2024,Producto_B,72.09,123.82,BayamÃ³n
+79,3/19/2024,Producto_C,30.74,,Ponce
+80,3/20/2024,Producto_D,21.14,116.86,MayagÃ¼ez
+81,3/21/2024,Producto_A,45.35,119.09,San Juan
+82,3/22/2024,Producto_B,34.04,154.18,BayamÃ³n
+83,3/23/2024,Producto_C,44.03,90.2,Ponce
+84,3/24/2024,Producto_D,43.8,144.19,MayagÃ¼ez
+85,3/25/2024,Producto_A,34.64,99.33,San Juan
+86,3/26/2024,Producto_B,30.35,99.84,BayamÃ³n
+87,3/27/2024,Producto_C,53.8,,Ponce
+88,3/28/2024,Producto_D,30.44,126.77,MayagÃ¼ez
+89,3/29/2024,Producto_A,51.73,116.46,San Juan
+90,3/30/2024,Producto_B,46.5,105.38,BayamÃ³n
+91,3/31/2024,Producto_C,36.86,76.08,Ponce
+92,4/1/2024,Producto_D,34.67,96.47,MayagÃ¼ez
+93,4/2/2024,Producto_A,29.26,99.35,San Juan
+94,4/3/2024,Producto_B,52.84,146.99,BayamÃ³n
+95,4/4/2024,Producto_C,65.67,,Ponce
+96,4/5/2024,Producto_D,55.88,51.51,MayagÃ¼ez
+97,4/6/2024,Producto_A,65.75,145.81,San Juan
+98,4/7/2024,Producto_B,30.43,84.83,BayamÃ³n
+99,4/8/2024,Producto_C,55.09,70.55,Ponce
+100,4/9/2024,Producto_D,45.61,135.87,MayagÃ¼ez
